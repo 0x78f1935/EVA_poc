@@ -7,7 +7,7 @@ You need python for this to work. My python 3 alias is "python3"
 ```
 python3 core.py
 ```
-Q = quit
+Q = quit,
 Spacebar = manual take a picture
 
 License
