@@ -1,14 +1,13 @@
 # EVA_poc
 Hello, this is EVA. your personal webcam security.
 Eva is designed to work with a single webcam.
-She can detect motion, save motion detected frames to drive and she supports a live view.
-This way you can still watch your webcam on your computer.
-You need python for this to work. My python 3 alias is "python3"
+You need python 3 in order to make this work.
+you can find the requirements in "requirements.txt".
+Start with python3.6 or higher "core.py"
 ```
 python3 core.py
 ```
-Q = quit,
-Spacebar = manual take a picture
+Eve is GUI based.
 
 License
 ----
